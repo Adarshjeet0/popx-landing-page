@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss()],
-  base:'/popx-landing-page',
+  base:'/popx-landing-page/',
 })

@@ -3,7 +3,7 @@ import './App.css'
 import Signup from './components/Signup';
 import Login from './components/Login';
 import Settings from './components/Settings';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
 
